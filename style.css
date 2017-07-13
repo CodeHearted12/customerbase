@@ -1,0 +1,25 @@
+.header {
+     text-align: center;
+}
+.pics {
+
+}
+.blur {filter: blur(5px);}
+
+.border {
+font-size: 12px;
+  width: 195px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.pro {
+  display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+ .pro h2 {
+   margin-top: 0px;
+  font-size: 12px;
+}
