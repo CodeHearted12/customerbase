@@ -2,9 +2,9 @@ const customers = {
   "results": [{
     "gender": "male",
     "name": {
-      "title": "mr",
-      "first": "curtis",
-      "last": "ryan"
+      "title": "Mr",
+      "first": "Curtis",
+      "last": "Ryan"
     },
     "location": {
       "street": "8073 rolling green rd",
@@ -36,11 +36,11 @@ const customers = {
     },
     "nat": "US"
   }, {
-    "gender": "male",
+    "gender": "Male",
     "name": {
-      "title": "mr",
-      "first": "martin",
-      "last": "terry"
+      "title": "Mr",
+      "first": "Martin",
+      "last": "Terry"
     },
     "location": {
       "street": "5377 hogan st",
@@ -74,9 +74,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "miss",
-      "first": "christine",
-      "last": "cooper"
+      "title": "Miss",
+      "first": "Christine",
+      "last": "Cooper"
     },
     "location": {
       "street": "7725 fincher rd",
@@ -110,9 +110,9 @@ const customers = {
   }, {
     "gender": "male",
     "name": {
-      "title": "mr",
-      "first": "norman",
-      "last": "henderson"
+      "title": "Mr",
+      "first": "Norman",
+      "last": "Henderson"
     },
     "location": {
       "street": "6481 mockingbird hill",
@@ -146,9 +146,9 @@ const customers = {
   }, {
     "gender": "male",
     "name": {
-      "title": "mr",
-      "first": "jose",
-      "last": "rhodes"
+      "title": "Mr",
+      "first": "Jose",
+      "last": "Rhodes"
     },
     "location": {
       "street": "3347 hickory creek dr",
@@ -182,9 +182,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "mrs",
-      "first": "pauline",
-      "last": "hughes"
+      "title": "Mrs",
+      "first": "Pauline",
+      "last": "Hughes"
     },
     "location": {
       "street": "3747 elgin st",
@@ -218,9 +218,9 @@ const customers = {
   }, {
     "gender": "male",
     "name": {
-      "title": "mr",
-      "first": "darren",
-      "last": "hunter"
+      "title": "Mr",
+      "first": "Darren",
+      "last": "Hunter"
     },
     "location": {
       "street": "4226 thornridge cir",
@@ -254,9 +254,9 @@ const customers = {
   }, {
     "gender": "male",
     "name": {
-      "title": "mr",
-      "first": "oscar",
-      "last": "walker"
+      "title": "Mr",
+      "first": "Oscar",
+      "last": "Walker"
     },
     "location": {
       "street": "7260 e north st",
@@ -290,9 +290,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "miss",
-      "first": "ann",
-      "last": "beck"
+      "title": "Miss",
+      "first": "Ann",
+      "last": "Beck"
     },
     "location": {
       "street": "1989 northaven rd",
@@ -326,9 +326,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "mrs",
-      "first": "harper",
-      "last": "morales"
+      "title": "Mrs",
+      "first": "Harper",
+      "last": "Morales"
     },
     "location": {
       "street": "5443 lovers ln",
@@ -362,9 +362,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "miss",
-      "first": "tammy",
-      "last": "hill"
+      "title": "Miss",
+      "first": "Tammy",
+      "last": "Hill"
     },
     "location": {
       "street": "3662 bollinger rd",
@@ -398,9 +398,9 @@ const customers = {
   }, {
     "gender": "female",
     "name": {
-      "title": "mrs",
-      "first": "addison",
-      "last": "graves"
+      "title": "Mrs",
+      "first": "Addison",
+      "last": "Graves"
     },
     "location": {
       "street": "5740 westheimer rd",
